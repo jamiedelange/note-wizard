@@ -23,7 +23,7 @@
   Feel free to contribute
 
   # Test Instructions
-  no test suites included
+  No test suites included
 
   # Licenses
   
