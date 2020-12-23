@@ -1,6 +1,6 @@
 # Note Wizard
 
-  ![license badge](https://img.shields.io/badge/license--blue)
+  ![license badge](https://img.shields.io/badge/license-MIT-blue)
 
   # Description
 
