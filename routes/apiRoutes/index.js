@@ -17,11 +17,6 @@ router.post('/notes', (req, res) => {
     }
 });
 
-/* router.get('/notes/:id', (req, res) => {
-    const note = getNoteById(req.params.id, notes);
-    res.json(note);
-}); */
-
 router.delete('/notes/:id', (req, res) => {
     const newNoteArray = deleteById(req.params.id, notes);
     res.json(newNoteArray);
