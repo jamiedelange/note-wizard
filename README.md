@@ -25,11 +25,7 @@
   # Test Instructions
   No test suites included
 
-  # Licenses
-  
-
   # Questions
   GitHub username: [jamiedelange](https://github.com/jamiedelange)
 
   E-mail me at jamie.de.lange@mac.com if you have any questions!
-  
