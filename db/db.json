@@ -2,12 +2,17 @@
   "notes": [
     {
       "id": "0",
-      "title": "Test Title",
-      "text": "Test text"
+      "title": "fix bike",
+      "text": "🚲"
     },
     {
       "title": "feed cats",
       "text": "zinzan daisy and sushi",
+      "id": "oMUFKVlwjT605PMgdZrU"
+    },
+    {
+      "title": "push ups",
+      "text": "yay",
       "id": "oMUFKVlwjT605PMgdZrU"
     }
   ]
