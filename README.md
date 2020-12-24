@@ -14,7 +14,7 @@
   * [Licenses](#licenses)
 
   # Installation Instructions
-  Clone the repository from https://github.com/jamiedelange/note-wizard
+  Clone the repository from https://github.com/jamiedelange/note-wizard, or just access the deployed application via this link: http://note-wizard.herokuapp.com/
 
   # Usage Information
   Run in Heroku to access app
